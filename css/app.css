@@ -1,0 +1,16 @@
+body{
+  background-color: #4D414C;
+  color: #eaeaae;
+}
+
+#userName{
+  color: black;
+}
+
+#output{
+  display: none;
+}
+
+ul{
+  list-style: none;
+}
